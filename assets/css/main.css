@@ -1809,6 +1809,7 @@
 		.box .image.fit {
 			margin: 0;
 			border-radius: 0;
+            color: aqua;
 		}
 
 			.box .image.fit img {
@@ -1838,10 +1839,12 @@
 				width: 50%;
 				height: 1px;
 				background-color: rgba(0, 0, 0, 0.125);
+                color: aqua;
 			}
 
 		.box .content {
 			padding: 3rem;
+            color: aqua;
 		}
 
 		.box > :last-child,
