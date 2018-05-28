@@ -2222,6 +2222,10 @@
 	.formerize-placeholder {
 		opacity: 1.0;
 	}
+    
+    colorgrey{
+        font: colo;
+    }
 
 	label {
 		color: #555;
