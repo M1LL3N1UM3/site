@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38a7c726-7c0e-4b10-b4d4-b622fe0f9e4a" name="Default" comment="" />
+    <list default="true" id="38a7c726-7c0e-4b10-b4d4-b622fe0f9e4a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/hennocque.html" afterPath="$PROJECT_DIR$/hennocque.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hennocque.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="hennocque.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hennocque.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="108" column="36" lean-forward="false" selection-start-line="108" selection-start-column="36" selection-end-line="108" selection-end-column="121" />
+            <state relative-caret-position="154">
+              <caret line="288" column="16" lean-forward="true" selection-start-line="288" selection-start-column="16" selection-end-line="288" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -53,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
@@ -72,10 +74,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/otan.html" />
-        <option value="$PROJECT_DIR$/hennocque.html" />
         <option value="$PROJECT_DIR$/puiselet.html" />
         <option value="$PROJECT_DIR$/catacombes.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/hennocque.html" />
       </list>
     </option>
   </component>
@@ -173,12 +175,12 @@
       <workItem from="1530031837589" duration="473000" />
       <workItem from="1531641638510" duration="263000" />
       <workItem from="1531642003750" duration="306000" />
-      <workItem from="1532014885615" duration="2555000" />
+      <workItem from="1532014885615" duration="2714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4893000" />
+    <option name="totallyTimeSpent" value="5052000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -420,14 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hennocque.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="108" column="36" lean-forward="false" selection-start-line="108" selection-start-column="36" selection-end-line="108" selection-end-column="121" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/puiselet.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -448,6 +442,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="209" column="98" lean-forward="true" selection-start-line="209" selection-start-column="98" selection-end-line="209" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hennocque.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="288" column="16" lean-forward="true" selection-start-line="288" selection-start-column="16" selection-end-line="288" selection-end-column="16" />
           <folding />
         </state>
       </provider>
